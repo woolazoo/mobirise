@@ -45,8 +45,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "woolazoo",
+        "meta_descr": "entertaining kids",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
